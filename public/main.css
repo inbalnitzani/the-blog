@@ -1,0 +1,43 @@
+body {
+  background: #222;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
+    helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  color: hotpink;
+}
+
+
+.title {
+  color: aliceblue;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif
+    /*rtl:Amiri, Georgia, "Times New Roman", serif*/
+  ;
+  font-size: 2.25rem;
+}
+
+.nav-item {
+  color: aliceblue !important;
+}
+
+.write-post-text-area {
+  height: 300px;
+}
+
+h1 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif
+    /*rtl:Amiri, Georgia, "Times New Roman", serif*/
+  ;
+
+}
+
+.post {
+  background-color: #313131 !important;
+  word-wrap: break-word;
+}
+
+footer {
+  padding: 10px;
+}
+
+.write-post {
+  width: 50%;
+}
